@@ -1,4 +1,4 @@
-package company.user.domain;
+package ru.itis.company.user.domain;
 
 public class User {
 
